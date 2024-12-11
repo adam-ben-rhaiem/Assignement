@@ -1,6 +1,7 @@
 It is an assignement of Training a classifier to predict the class: 0 or 1.
 
 in this Assignement we compare 3 differenet models 
+
 __1-Random Forest Classifier:__
 
 Random Decision Forest is a supervised Machine learning algorithm used for classification, regression, and other tasks using decision trees.
