@@ -15,7 +15,7 @@ __3-Logistic Regression:__
 Logistic regression is a supervised machine learning algorithm widely used for binary classification tasks.
 
 
-Using F1 score as evaluation metric:
+__Using F1 score as evaluation metric:__
 
 F1 score is a measure of the harmonic mean of precision and recall. Commonly used as an evaluation metric in binary and multi-class classification and LLM evaluation, the F1 score integrates precision and recall into a single metric to gain a better understanding of model performance.  
 
