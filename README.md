@@ -31,6 +31,11 @@ F1 score is a measure of the harmonic mean of precision and recall. Commonly use
 
 ![image](https://github.com/user-attachments/assets/7b290390-29c8-4a09-9b72-ee2e3aefd51d)
 
+### Generates descriptive statistics that summarize the central tendency, dispersion and shape of our dataset distribution, excluding NaN values:
+
+![image](https://github.com/user-attachments/assets/7ef5f7a6-4729-4b77-bd67-fb8974b72578)
+
+
 
 
 ## Results
