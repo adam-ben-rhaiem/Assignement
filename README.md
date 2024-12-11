@@ -21,7 +21,15 @@ __Using F1 score as evaluation metric:__
 
 F1 score is a measure of the harmonic mean of precision and recall. Commonly used as an evaluation metric in binary and multi-class classification and LLM evaluation, the F1 score integrates precision and recall into a single metric to gain a better understanding of model performance.  
 
+## Dataset description
+
+The dataset provides demographic and employment-related information, including gender, nationality, employment status, and associated scores. It is useful for analyzing patterns or building predictive models around employment trends and demographic factors.
+
 ## Data Pre-Processing
+
+### Explore the Variables included in our dataset
+
+![image](https://github.com/user-attachments/assets/23fceb28-ac7f-4999-a5ec-e21e2cbc943e)
 
 ### Showing the first five rows of our data
 
