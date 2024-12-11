@@ -55,6 +55,20 @@ __Imputation Strategy:__ We're using the median of each column in the training d
 
 __Data Leakage Prevention:__ The median is calculated only on the training data, which avoids the issue of data leakage from the test set.
 
+### Scaling the Data
+
+![image](https://github.com/user-attachments/assets/a66247ff-4493-493b-acdf-e808fab97942)
+
+__StandardScaler:__ This scaler standardizes the data by removing the mean and scaling to unit variance.
+
+__Fit and Transform:__
+fit_transform(X_train): This fits the scaler on the training set and transforms it (scaling).
+transform(X_test): After fitting on the training data, you apply the same scaling transformation to the test set, ensuring consistency between train and test data.
+
+
+
+
+
 
 
 ## Results
