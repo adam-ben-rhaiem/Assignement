@@ -47,6 +47,15 @@ F1 score is a measure of the harmonic mean of precision and recall. Commonly use
 
 ![image](https://github.com/user-attachments/assets/a16a0b77-6379-4543-a58e-4474d233599a)
 
+### Impute Missing Values
+
+![image](https://github.com/user-attachments/assets/a5132b1e-e004-40a3-9487-4ba89b273cca)
+
+__Imputation Strategy:__ We're using the median of each column in the training data, which is often a good strategy for numerical features when there are missing values (especially if the data is skewed).
+
+__Data Leakage Prevention:__ The median is calculated only on the training data, which avoids the issue of data leakage from the test set.
+
+
 
 ## Results
 
