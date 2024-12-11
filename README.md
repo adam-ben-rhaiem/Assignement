@@ -35,6 +35,14 @@ F1 score is a measure of the harmonic mean of precision and recall. Commonly use
 
 ![image](https://github.com/user-attachments/assets/7ef5f7a6-4729-4b77-bd67-fb8974b72578)
 
+our Features
+
+![image](https://github.com/user-attachments/assets/6b573ceb-3f96-4ca3-aa32-466a724a1dcc)
+
+our Target
+
+![image](https://github.com/user-attachments/assets/b86a2255-2a8a-443c-b717-151de693e102)
+
 
 
 
