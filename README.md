@@ -23,7 +23,7 @@ F1 score is a measure of the harmonic mean of precision and recall. Commonly use
 
 Data Pre-Processing
 
-__Results__
+## Results
 
 the comparison between the 3 models have shown the best performance related to Random Forest Classifier with F1-scoere=0.96
 and then we get F1-score=0.93 when using Logisitic Regression Model.The pporest Performance among the Three models was K-Neares Neighbors with F1-score=0.83
