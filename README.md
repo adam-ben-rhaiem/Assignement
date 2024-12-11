@@ -76,11 +76,13 @@ transform(X_test): After fitting on the training data, you apply the same scalin
 
 ### Prediction 
 
-__1-Logistic Regression Model__
+
+__Random Forest Classifier__
 
 ![image](https://github.com/user-attachments/assets/b00d7d6e-df23-4519-ba16-34913345032f)
 
-__Random Forest Classifier__
+__Logistic Regression Model__
+
 ![image](https://github.com/user-attachments/assets/611e6429-ad82-44ff-9fab-057c9be1fbd6)
 
 __K-Nearest Neighbors__
