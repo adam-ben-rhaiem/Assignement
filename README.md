@@ -89,14 +89,6 @@ __K-Nearest Neighbors__
 
 ![image](https://github.com/user-attachments/assets/4d6bd0d7-d851-4c33-8fc9-b0209ca91d2f)
 
-
-
-### Evaluation using F1 Score metric
-
-
-
-
-
 ## Results
 
 the comparison between the 3 models have shown the best performance related to Random Forest Classifier with F1-scoere=0.96
