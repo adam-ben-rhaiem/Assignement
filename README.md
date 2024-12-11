@@ -5,7 +5,7 @@ in this Assignement we compare 3 differenet models
 
 Random Decision Forest is a supervised Machine learning algorithm used for classification, regression, and other tasks using decision trees.
 
-2-K-Nearest Neighbor:
+__2-K-Nearest Neighbor:__
 
 The K-Nearest Neighbors (KNN) algorithm is a supervised machine learning method employed to tackle classification and regression problem
 
