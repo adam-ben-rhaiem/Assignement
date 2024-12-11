@@ -1,7 +1,7 @@
 It is an assignement of Training a classifier to predict the class: 0 or 1.
 
 in this Assignement we compare 3 differenet models 
-1-Random Forest Classifier:
+__1-Random Forest Classifier:__
 
 Random Decision Forest is a supervised Machine learning algorithm used for classification, regression, and other tasks using decision trees.
 
@@ -9,7 +9,7 @@ __2-K-Nearest Neighbor:__
 
 The K-Nearest Neighbors (KNN) algorithm is a supervised machine learning method employed to tackle classification and regression problem
 
-3-Logistic Regression:
+__3-Logistic Regression:__
 
 Logistic regression is a supervised machine learning algorithm widely used for binary classification tasks.
 
