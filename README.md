@@ -65,7 +65,27 @@ __Fit and Transform:__
 fit_transform(X_train): This fits the scaler on the training set and transforms it (scaling).
 transform(X_test): After fitting on the training data, you apply the same scaling transformation to the test set, ensuring consistency between train and test data.
 
+## Training The Model:
 
+![image](https://github.com/user-attachments/assets/78a530aa-e950-425f-98a7-80e9c90256e2)
+
+![image](https://github.com/user-attachments/assets/c6b0c835-2b67-4994-afc9-1de834a174c6)
+
+![image](https://github.com/user-attachments/assets/8a698e02-ddae-4a93-ae08-784d97676a07)
+
+
+### Prediction 
+
+![image](https://github.com/user-attachments/assets/b00d7d6e-df23-4519-ba16-34913345032f)
+
+
+![image](https://github.com/user-attachments/assets/611e6429-ad82-44ff-9fab-057c9be1fbd6)
+
+![image](https://github.com/user-attachments/assets/4d6bd0d7-d851-4c33-8fc9-b0209ca91d2f)
+
+
+
+### Evaluation using F1 Score metric
 
 
 
